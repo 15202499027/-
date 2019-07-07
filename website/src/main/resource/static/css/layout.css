@@ -53,17 +53,17 @@ li a {
   color: #515769;
 }
 
-a {
-  font-family: Hind, sans-serif;
-  color: #81848f;
-  outline: 0;
-}
+/*a {*/
+/*  font-family: Hind, sans-serif;*/
+/*  color: #81848f;*/
+/*  outline: 0;*/
+/*}*/
 
-a:focus, a:hover, a:active {
-  outline: 0;
-  color: #999caa;
-  text-decoration: none;
-}
+/*a:focus, a:hover, a:active {*/
+/*  outline: 0;*/
+/*  color: #999caa;*/
+/*  text-decoration: none;*/
+/*}*/
 
 .link {
   position: relative;
@@ -83,12 +83,12 @@ a:focus, a:hover, a:active {
   content: " ";
 }
 
-span {
-  font-size: 14px;
-  font-weight: 400;
-  font-family: Hind, sans-serif;
-  color: #bfc1c7;
-}
+/*span {*/
+/*  font-size: 14px;*/
+/*  font-weight: 400;*/
+/*  font-family: Hind, sans-serif;*/
+/*  color: #bfc1c7;*/
+/*}*/
 
 h1, h2, h3, h4, h5, h6 {
   font-weight: 700;
@@ -361,46 +361,46 @@ fieldset[disabled] .btn-theme {
 /*------------------------------------------------------------------
   	[Service]
 ------------------------------------------------------------------*/
-.service {
-  background: #fff;
-  padding: 50px;
-}
+/*.service {*/
+/*  background: #fff;*/
+/*  padding: 50px;*/
+/*}*/
 
-.service .service-element,
-.service .service-info {
-  -webkit-transform: translate3d(0, 0, 0);
-  -moz-transform: translate3d(0, 0, 0);
-  transform: translate3d(0, 0, 0);
-  transition-duration: 300ms;
-  transition-property: all;
-  transition-timing-function: cubic-bezier(0.7, 1, 0.7, 1);
-}
+/*.service .service-element,*/
+/*.service .service-info {*/
+/*  -webkit-transform: translate3d(0, 0, 0);*/
+/*  -moz-transform: translate3d(0, 0, 0);*/
+/*  transform: translate3d(0, 0, 0);*/
+/*  transition-duration: 300ms;*/
+/*  transition-property: all;*/
+/*  transition-timing-function: cubic-bezier(0.7, 1, 0.7, 1);*/
+/*}*/
 
-.service .service-icon {
-  display: block;
-  font-size: 30px;
-  color: #999caa;
-  margin-bottom: 30px;
-}
+/*.service .service-icon {*/
+/*  display: block;*/
+/*  font-size: 30px;*/
+/*  color: #999caa;*/
+/*  margin-bottom: 30px;*/
+/*}*/
 
-.service:hover .service-element {
-  opacity: 0;
-  -webkit-transform: translate3d(0, -100%, 0);
-  -moz-transform: translate3d(0, -100%, 0);
-  transform: translate3d(0, -100%, 0);
-  transition-duration: 300ms;
-  transition-property: all;
-  transition-timing-function: cubic-bezier(0.7, 1, 0.7, 1);
-}
+/*.service:hover .service-element {*/
+/*  opacity: 0;*/
+/*  -webkit-transform: translate3d(0, -100%, 0);*/
+/*  -moz-transform: translate3d(0, -100%, 0);*/
+/*  transform: translate3d(0, -100%, 0);*/
+/*  transition-duration: 300ms;*/
+/*  transition-property: all;*/
+/*  transition-timing-function: cubic-bezier(0.7, 1, 0.7, 1);*/
+/*}*/
 
-.service:hover .service-info {
-  -webkit-transform: translate3d(0, -30%, 0);
-  -moz-transform: translate3d(0, -30%, 0);
-  transform: translate3d(0, -30%, 0);
-  transition-duration: 300ms;
-  transition-property: all;
-  transition-timing-function: cubic-bezier(0.7, 1, 0.7, 1);
-}
+/*.service:hover .service-info {*/
+/*  -webkit-transform: translate3d(0, -30%, 0);*/
+/*  -moz-transform: translate3d(0, -30%, 0);*/
+/*  transform: translate3d(0, -30%, 0);*/
+/*  transition-duration: 300ms;*/
+/*  transition-property: all;*/
+/*  transition-timing-function: cubic-bezier(0.7, 1, 0.7, 1);*/
+/*}*/
 
 /*------------------------------------------------------------------
   	[Work]
