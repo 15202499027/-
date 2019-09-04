@@ -1,0 +1,13 @@
+html,body{
+    margin: 0;padding: 0;
+}
+.header{
+    width: 100%;height: 80px;line-height: 80px;position: fixed;z-index: 1;padding: 0 50px;
+}
+.header img{
+    height: 70px;width: auto;
+}
+
+.purdah{
+    width: 100%;height: auto;padding-top: 60px;
+}
